@@ -1,2 +1,6 @@
-Shhh! 
+INFORMATION
+
+Some ROMs are being downloaded from archive.org dumps
+and some are directly from GenHeaven servers.
+
 EOL
