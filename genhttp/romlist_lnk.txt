@@ -4,3 +4,4 @@ https://github.com/lolhie3/genlaunch-roms/raw/main/umk3_u_f2.zip
 https://archive.org/download/megadrivemini/Mega_Drive_Mini_ROMs/jp_Dr_Robotnik_s_Mean_Bean_Machine.zip
 https://archive.org/download/megadrivemini/Mega_Drive_Mini_ROMs/jp_Sonic_The_Hedgehog.zip
 https://github.com/lolhie3/genlaunch-roms/raw/main/sth2_world.zip
+https://archive.org/download/megadrivemini/Mega_Drive_Mini_ROMs/us_Vectorman.zip
