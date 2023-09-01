@@ -1,4 +1,4 @@
-GenHttp - the genlaunch official portal
+GenLand - портал с играми для Sega Genesis
 --------
 Ultimate Mortal Kombat 3 (1995) (US)
 Puyo Puyo (1991) (JP)
@@ -6,8 +6,11 @@ Sonic the Hedgehog (1991) (US)
 Sonic the Hedgehog 2 (1992) (JP)
 Vectorman (1995) (EU)
 --------
-Thank you for using GenLaunch!
+(с) Роман Калинин, 2023
 EOL
 
 If you can read this, please use GenLaunch 
 or any other app compatible with ROMList Markup Language.
+
+Если вы можете это прочитать, пожалуйста используйте GenLaunch
+или любое другое RLML-совместимое приложение.
